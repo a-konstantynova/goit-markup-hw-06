@@ -825,6 +825,16 @@ img {
   cursor: pointer;
 }
 
+.modal-svg {
+  fill: #000;
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.modal-close:hover .modal-svg,
+.modal-close:focus .modal-svg {
+  fill: var(--secondary-color);
+}
+
 .modal-form-title {
   text-align: center;
   margin-bottom: 12px;
