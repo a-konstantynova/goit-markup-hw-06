@@ -837,6 +837,7 @@ img {
 
 .modal-form-title {
   text-align: center;
+  font-size: 20px;
   margin-bottom: 12px;
   font-weight: 700;
   line-height: 1.15;
@@ -851,6 +852,7 @@ img {
 
 .modal-form-field {
   font-weight: 400;
+  font-size: 14px;
   line-height: 1.17;
   letter-spacing: 0.01em;
   color: var(--light-grey-color);
@@ -917,7 +919,7 @@ img {
 .modal-form-check-desc {
   display: flex;
   align-items: center;
-  font-size: 12px;
+  font-size: 14px;
   margin-left: 12px;
   font-weight: 400;
   line-height: 1.7;
