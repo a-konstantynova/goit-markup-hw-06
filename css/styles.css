@@ -598,7 +598,7 @@ img {
 
 .footer-form {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   justify-content: center;
   margin-left: 93px;
 }
@@ -634,11 +634,6 @@ img {
   align-items: center;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
-}
-
-.footer-wrapper-form {
-  display: flex;
-  align-items: baseline;
 }
 
 .footer-form-button {
